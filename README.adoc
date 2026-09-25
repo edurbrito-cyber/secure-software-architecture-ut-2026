@@ -14,16 +14,16 @@ This repository is the official team workspace for the Secure Software Architect
 
 == Project scenario
 
-Default scenario: Citizen Services Portal.
-
-Start from link:docs/scenario.adoc[docs/scenario.adoc]. Keep a short project summary here and link to the main architecture artifacts as they become available.
+The goals of this project is to descrive the architecture of a Citizen Services Portal. Details are described in link:docs/scenario.adoc[docs/scenario.adoc].
 
 == Current status
 
-* Week: 2
-* Main focus this week: risks
-* Biggest open question: Is there a legally required fallback authentication method for residents who cannot use the national eID?
-* Biggest technical risk: TODO
+* Week: 4
+* Main focus this week: initial architecture
+* Biggest open question: 
+* * How much and what data do we save in our database?
+* * How much functionality our system really has? Is it just connecting portal?
+
 
 == Important links
 
